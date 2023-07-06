@@ -1,0 +1,5 @@
+pytorch==1.13.0
+transformers==4.18.0
+pytorch-lightning==1.8.6
+wordninja
+datasets

@@ -19,8 +19,16 @@ sh ./scripts/run.sh
 
 
 # Reference
-```
+Please cite this paper if you use code in this repo.
 
+```
+@inproceedings{yu2023generating,
+  title={Generating Hashtags for Short-form Videos with Guided Signals},
+  author={Yu, Tiezheng and Yu, Hanchao and Liang, Davis and Mao, Yuning and Nie, Shaoliang and Huang, Po-Yao and Khabsa, Madian and Fung, Pascale and Wang, Yi-Chia},
+  booktitle={Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={9482--9495},
+  year={2023}
+}
 ```
 
 # License
